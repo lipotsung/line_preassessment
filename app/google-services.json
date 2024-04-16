@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855696070909",
+    "project_id": "linetest-b999f",
+    "storage_bucket": "linetest-b999f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855696070909:android:3e495a0f3009d9ae8a4694",
+        "android_client_info": {
+          "package_name": "com.example.linetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6MRYUc8dJDeNZGP6ZuAu6XP_ATztsr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
